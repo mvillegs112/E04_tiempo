@@ -23,7 +23,7 @@ void draw() {
   int s = second();
 
   // Calcular tamaños
-  float H = map(h, 0, 23, 50, 170);
+  float H = map(h, 0, 23, 80, 220);
   float M = map(m, 0, 59, 50, 150);
   float S = map(s, 0, 59, 10, 50);
 
